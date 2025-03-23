@@ -26,7 +26,7 @@ requests: Для выполнения HTTP-запросов.
 
 beautifulsoup4: Для парсинга HTML-страницы.
 
-Установите зависимости с помощью pip:
+Установите зависимости с помощью power shell в windows:
 
 pip install requests beautifulsoup4
 
